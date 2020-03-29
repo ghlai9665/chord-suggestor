@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deploy Keras Model with Flask as Web App in 10 Minutes
 
 [![](https://img.shields.io/badge/python-3.5%2B-green.svg)]()
@@ -155,3 +156,7 @@ server {
 ## More resources
 
 [Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
+=======
+# chord-suggestor
+Given a sequence of chords, suggest new chords for songwriters. A language model trained with LSTM.
+>>>>>>> 6f9605cec609168b875e8d7236f24932121b8e4b
